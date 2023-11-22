@@ -238,12 +238,14 @@ def prismarea(request):
 ```
 
 ## OUTPUT:
-#### HomeP age
-![Clientside_output](image.png)
+#### Home Page
+![Clientside_output](https://github.com/Nijeesh-bit/serversideprocessing/assets/89188014/7de7decc-0a78-479f-bf71-979242f2e6aa)
+
 #### Server Side Image
-![Serverside_output](image-1.png)
+![Serverside_output](https://github.com/Nijeesh-bit/serversideprocessing/assets/89188014/db103894-bf42-4c6a-9719-5fc3cdd7e039)
+
 
 ## Result:
 
-Sucessfully we have made a Area of Prism calculator through server side processsing.
+Successfully we have made an Area of Prism calculator through server-side processing.
 
